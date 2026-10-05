@@ -1,0 +1,2580 @@
+{
+ "cities": [
+  {
+   "name": "Berna",
+   "u": 0.520725,
+   "v": 0.644931,
+   "population": 134857,
+   "capital": true,
+   "owner": "SWI"
+  },
+  {
+   "name": "Bangkok",
+   "u": 0.779188,
+   "v": 0.440858,
+   "population": 1396153,
+   "capital": true,
+   "owner": "SIA"
+  },
+  {
+   "name": "Monrovia",
+   "u": 0.469944,
+   "v": 0.39883,
+   "population": 124920,
+   "capital": true,
+   "owner": "LIB"
+  },
+  {
+   "name": "Luxemburgo",
+   "u": 0.517036,
+   "v": 0.663995,
+   "population": 77227,
+   "capital": true,
+   "owner": "LUX"
+  },
+  {
+   "name": "Copenhague",
+   "u": 0.534831,
+   "v": 0.709489,
+   "population": 689948,
+   "capital": true,
+   "owner": "DEN"
+  },
+  {
+   "name": "Thimphu",
+   "u": 0.749023,
+   "v": 0.520147,
+   "population": 19735,
+   "capital": false,
+   "owner": "BHU"
+  },
+  {
+   "name": "Adís Abeba",
+   "u": 0.60753,
+   "v": 0.414428,
+   "population": 276591,
+   "capital": true,
+   "owner": "ETH"
+  },
+  {
+   "name": "Washington D.C.",
+   "u": 0.286133,
+   "v": 0.591205,
+   "population": 1691642,
+   "capital": true,
+   "owner": "USA"
+  },
+  {
+   "name": "Caracas",
+   "u": 0.314128,
+   "v": 0.422227,
+   "population": 656700,
+   "capital": true,
+   "owner": "VEN"
+  },
+  {
+   "name": "Roma",
+   "u": 0.534614,
+   "v": 0.610702,
+   "population": 2375610,
+   "capital": true,
+   "owner": "ITA"
+  },
+  {
+   "name": "Ankara",
+   "u": 0.591254,
+   "v": 0.597704,
+   "population": 734918,
+   "capital": true,
+   "owner": "TUR"
+  },
+  {
+   "name": "Lima",
+   "u": 0.285916,
+   "v": 0.29701,
+   "population": 1762640,
+   "capital": true,
+   "owner": "PRU"
+  },
+  {
+   "name": "Riad",
+   "u": 0.629883,
+   "v": 0.50325,
+   "population": 669750,
+   "capital": true,
+   "owner": "SAU"
+  },
+  {
+   "name": "Katmandú",
+   "u": 0.737088,
+   "v": 0.52188,
+   "population": 179000,
+   "capital": true,
+   "owner": "NEP"
+  },
+  {
+   "name": "Ciudad de México",
+   "u": 0.224718,
+   "v": 0.473354,
+   "population": 2759290,
+   "capital": true,
+   "owner": "MEX"
+  },
+  {
+   "name": "Bogotá",
+   "u": 0.294162,
+   "v": 0.389298,
+   "population": 1709840,
+   "capital": true,
+   "owner": "COL"
+  },
+  {
+   "name": "La Habana",
+   "u": 0.271159,
+   "v": 0.494584,
+   "population": 478280,
+   "capital": true,
+   "owner": "CUB"
+  },
+  {
+   "name": "Taiyuan",
+   "u": 0.812609,
+   "v": 0.584705,
+   "population": 1042057,
+   "capital": true,
+   "owner": "SHX"
+  },
+  {
+   "name": "Kunming",
+   "u": 0.785265,
+   "v": 0.505849,
+   "population": 1048497,
+   "capital": true,
+   "owner": "YUN"
+  },
+  {
+   "name": "Nankín",
+   "u": 0.82997,
+   "v": 0.547877,
+   "population": 1316076,
+   "capital": true,
+   "owner": "CHI"
+  },
+  {
+   "name": "Hsinking",
+   "u": 0.848199,
+   "v": 0.624133,
+   "population": 1138644,
+   "capital": true,
+   "owner": "MAN"
+  },
+  {
+   "name": "Tokio",
+   "u": 0.888129,
+   "v": 0.570841,
+   "population": 19778413,
+   "capital": true,
+   "owner": "JAP"
+  },
+  {
+   "name": "Nueva Delhi",
+   "u": 0.714518,
+   "v": 0.527513,
+   "population": 3380035,
+   "capital": true,
+   "owner": "RAJ"
+  },
+  {
+   "name": "Santiago",
+   "u": 0.303711,
+   "v": 0.17136,
+   "population": 1258400,
+   "capital": true,
+   "owner": "CHL"
+  },
+  {
+   "name": "Atenas",
+   "u": 0.565864,
+   "v": 0.585139,
+   "population": 2087451,
+   "capital": true,
+   "owner": "GRE"
+  },
+  {
+   "name": "Teherán",
+   "u": 0.642904,
+   "v": 0.570407,
+   "population": 1424308,
+   "capital": true,
+   "owner": "PER"
+  },
+  {
+   "name": "Bagdad",
+   "u": 0.623372,
+   "v": 0.556109,
+   "population": 758100,
+   "capital": true,
+   "owner": "IRQ"
+  },
+  {
+   "name": "Río de Janeiro",
+   "u": 0.379883,
+   "v": 0.234619,
+   "population": 2115257,
+   "capital": true,
+   "owner": "BRA"
+  },
+  {
+   "name": "Ottawa",
+   "u": 0.289822,
+   "v": 0.634532,
+   "population": 335069,
+   "capital": true,
+   "owner": "CAN"
+  },
+  {
+   "name": "Buenos Aires",
+   "u": 0.337782,
+   "v": 0.163995,
+   "population": 3644430,
+   "capital": true,
+   "owner": "ARG"
+  },
+  {
+   "name": "Viena",
+   "u": 0.545464,
+   "v": 0.654029,
+   "population": 1838445,
+   "capital": true,
+   "owner": "AUT"
+  },
+  {
+   "name": "Wellington",
+   "u": 0.985569,
+   "v": 0.121101,
+   "population": 128013,
+   "capital": true,
+   "owner": "NZL"
+  },
+  {
+   "name": "Kaunas",
+   "u": 0.566298,
+   "v": 0.703856,
+   "population": 269742,
+   "capital": true,
+   "owner": "LIT"
+  },
+  {
+   "name": "Johannesburg",
+   "u": 0.577799,
+   "v": 0.215555,
+   "population": 563131,
+   "capital": false,
+   "owner": "SAF"
+  },
+  {
+   "name": "Ámsterdam",
+   "u": 0.513563,
+   "v": 0.684359,
+   "population": 505600,
+   "capital": true,
+   "owner": "HOL"
+  },
+  {
+   "name": "Moscú",
+   "u": 0.604492,
+   "v": 0.710355,
+   "population": 7529136,
+   "capital": true,
+   "owner": "SOV"
+  },
+  {
+   "name": "Manila",
+   "u": 0.836046,
+   "v": 0.445624,
+   "population": 1540003,
+   "capital": true,
+   "owner": "PHI"
+  },
+  {
+   "name": "Xining",
+   "u": 0.782661,
+   "v": 0.576473,
+   "population": 374897,
+   "capital": true,
+   "owner": "XSM"
+  },
+  {
+   "name": "Hechi",
+   "u": 0.800239,
+   "v": 0.503683,
+   "population": 1370093,
+   "capital": false,
+   "owner": "GXC"
+  },
+  {
+   "name": "Berlín",
+   "u": 0.537218,
+   "v": 0.685659,
+   "population": 2499206,
+   "capital": true,
+   "owner": "GER"
+  },
+  {
+   "name": "Urumchi",
+   "u": 0.743164,
+   "v": 0.6237,
+   "population": 1278873,
+   "capital": true,
+   "owner": "SIK"
+  },
+  {
+   "name": "Helsinki",
+   "u": 0.569336,
+   "v": 0.745884,
+   "population": 727132,
+   "capital": true,
+   "owner": "FIN"
+  },
+  {
+   "name": "Canberra",
+   "u": 0.914171,
+   "v": 0.159662,
+   "population": 87854,
+   "capital": true,
+   "owner": "AST"
+  },
+  {
+   "name": "Mascate",
+   "u": 0.662652,
+   "v": 0.497184,
+   "population": 110204,
+   "capital": true,
+   "owner": "OMA"
+  },
+  {
+   "name": "El Cairo",
+   "u": 0.586697,
+   "v": 0.535745,
+   "population": 1883676,
+   "capital": true,
+   "owner": "EGY"
+  },
+  {
+   "name": "Kyzyl",
+   "u": 0.762261,
+   "v": 0.679593,
+   "population": 77971,
+   "capital": true,
+   "owner": "TAN"
+  },
+  {
+   "name": "Dánzig",
+   "u": 0.551758,
+   "v": 0.699523,
+   "population": 623635,
+   "capital": true,
+   "owner": "DNZ"
+  },
+  {
+   "name": "Yulin",
+   "u": 0.804796,
+   "v": 0.587305,
+   "population": 55791,
+   "capital": false,
+   "owner": "PRC"
+  },
+  {
+   "name": "Reikiavik",
+   "u": 0.439128,
+   "v": 0.779679,
+   "population": 119672,
+   "capital": true,
+   "owner": "ICE"
+  },
+  {
+   "name": "Ulán Bator",
+   "u": 0.796984,
+   "v": 0.652296,
+   "population": 292050,
+   "capital": true,
+   "owner": "MON"
+  },
+  {
+   "name": "Riga",
+   "u": 0.566949,
+   "v": 0.719454,
+   "population": 534651,
+   "capital": true,
+   "owner": "LAT"
+  },
+  {
+   "name": "Tallin",
+   "u": 0.568685,
+   "v": 0.739818,
+   "population": 283697,
+   "capital": true,
+   "owner": "EST"
+  },
+  {
+   "name": "Lhasa",
+   "u": 0.753147,
+   "v": 0.533146,
+   "population": 78556,
+   "capital": true,
+   "owner": "TIB"
+  },
+  {
+   "name": "Belgrado",
+   "u": 0.556749,
+   "v": 0.630633,
+   "population": 791280,
+   "capital": true,
+   "owner": "YUG"
+  },
+  {
+   "name": "Tirana",
+   "u": 0.555013,
+   "v": 0.607236,
+   "population": 644652,
+   "capital": true,
+   "owner": "ALB"
+  },
+  {
+   "name": "Sofía",
+   "u": 0.564779,
+   "v": 0.615901,
+   "population": 1053218,
+   "capital": true,
+   "owner": "BUL"
+  },
+  {
+   "name": "Budapest",
+   "u": 0.55306,
+   "v": 0.649263,
+   "population": 1546681,
+   "capital": true,
+   "owner": "HUN"
+  },
+  {
+   "name": "Saná",
+   "u": 0.622721,
+   "v": 0.449957,
+   "population": 301200,
+   "capital": true,
+   "owner": "YEM"
+  },
+  {
+   "name": "Bucarest",
+   "u": 0.572591,
+   "v": 0.628033,
+   "population": 1605245,
+   "capital": true,
+   "owner": "ROM"
+  },
+  {
+   "name": "Lisboa",
+   "u": 0.474501,
+   "v": 0.589905,
+   "population": 1998906,
+   "capital": true,
+   "owner": "POR"
+  },
+  {
+   "name": "Oslo",
+   "u": 0.529839,
+   "v": 0.743718,
+   "population": 452794,
+   "capital": true,
+   "owner": "NOR"
+  },
+  {
+   "name": "Varsovia",
+   "u": 0.558268,
+   "v": 0.683492,
+   "population": 1438576,
+   "capital": true,
+   "owner": "POL"
+  },
+  {
+   "name": "Dublín",
+   "u": 0.48253,
+   "v": 0.691724,
+   "population": 642929,
+   "capital": true,
+   "owner": "IRE"
+  },
+  {
+   "name": "Praga",
+   "u": 0.540256,
+   "v": 0.667461,
+   "population": 1187080,
+   "capital": true,
+   "owner": "CZE"
+  },
+  {
+   "name": "Bruselas",
+   "u": 0.512044,
+   "v": 0.673094,
+   "population": 1259737,
+   "capital": true,
+   "owner": "BEL"
+  },
+  {
+   "name": "Madrid",
+   "u": 0.489692,
+   "v": 0.60117,
+   "population": 2956340,
+   "capital": true,
+   "owner": "SPR"
+  },
+  {
+   "name": "Estocolmo",
+   "u": 0.550239,
+   "v": 0.738951,
+   "population": 768075,
+   "capital": true,
+   "owner": "SWE"
+  },
+  {
+   "name": "Kabul",
+   "u": 0.692166,
+   "v": 0.563475,
+   "population": 655400,
+   "capital": true,
+   "owner": "AFG"
+  },
+  {
+   "name": "Londres",
+   "u": 0.499674,
+   "v": 0.67786,
+   "population": 6024576,
+   "capital": true,
+   "owner": "ENG"
+  },
+  {
+   "name": "París",
+   "u": 0.506402,
+   "v": 0.658795,
+   "population": 6188164,
+   "capital": true,
+   "owner": "FRA"
+  },
+  {
+   "name": "Montevideo",
+   "u": 0.343859,
+   "v": 0.162695,
+   "population": 332860,
+   "capital": true,
+   "owner": "URY"
+  },
+  {
+   "name": "Ho Chi Minh City",
+   "u": 0.796332,
+   "v": 0.42396,
+   "population": 1046690,
+   "capital": false,
+   "owner": "FRA"
+  },
+  {
+   "name": "Lyon",
+   "u": 0.513346,
+   "v": 0.637132,
+   "population": 889111,
+   "capital": false,
+   "owner": "FRA"
+  },
+  {
+   "name": "Marseille",
+   "u": 0.514865,
+   "v": 0.620234,
+   "population": 874740,
+   "capital": false,
+   "owner": "FRA"
+  },
+  {
+   "name": "Hanoi",
+   "u": 0.793945,
+   "v": 0.482452,
+   "population": 862328,
+   "capital": false,
+   "owner": "FRA"
+  },
+  {
+   "name": "Lille",
+   "u": 0.508572,
+   "v": 0.671794,
+   "population": 652306,
+   "capital": false,
+   "owner": "FRA"
+  },
+  {
+   "name": "Tegucigalpa",
+   "u": 0.257704,
+   "v": 0.442591,
+   "population": 208120,
+   "capital": true,
+   "owner": "HND"
+  },
+  {
+   "name": "San Pedro Sula",
+   "u": 0.255534,
+   "v": 0.450823,
+   "population": 149620,
+   "capital": false,
+   "owner": "HND"
+  },
+  {
+   "name": "Puerto Príncipe",
+   "u": 0.299154,
+   "v": 0.468154,
+   "population": 439560,
+   "capital": true,
+   "owner": "HTI"
+  },
+  {
+   "name": "Istanbul",
+   "u": 0.580621,
+   "v": 0.605503,
+   "population": 1989779,
+   "capital": false,
+   "owner": "TUR"
+  },
+  {
+   "name": "İzmir",
+   "u": 0.575412,
+   "v": 0.588172,
+   "population": 511634,
+   "capital": false,
+   "owner": "TUR"
+  },
+  {
+   "name": "Hong Kong",
+   "u": 0.817166,
+   "v": 0.489818,
+   "population": 2577778,
+   "capital": false,
+   "owner": "ENG"
+  },
+  {
+   "name": "Birmingham",
+   "u": 0.494683,
+   "v": 0.685225,
+   "population": 1606881,
+   "capital": false,
+   "owner": "ENG"
+  },
+  {
+   "name": "Manchester",
+   "u": 0.493815,
+   "v": 0.693024,
+   "population": 1568204,
+   "capital": false,
+   "owner": "ENG"
+  },
+  {
+   "name": "Singapore",
+   "u": 0.78852,
+   "v": 0.371101,
+   "population": 1295925,
+   "capital": false,
+   "owner": "ENG"
+  },
+  {
+   "name": "Lagos",
+   "u": 0.50944,
+   "v": 0.399697,
+   "population": 942061,
+   "capital": false,
+   "owner": "ENG"
+  },
+  {
+   "name": "Glasgow",
+   "u": 0.488173,
+   "v": 0.711222,
+   "population": 815747,
+   "capital": false,
+   "owner": "ENG"
+  },
+  {
+   "name": "George Town",
+   "u": 0.778754,
+   "v": 0.394064,
+   "population": 625000,
+   "capital": false,
+   "owner": "ENG"
+  },
+  {
+   "name": "Newcastle",
+   "u": 0.495551,
+   "v": 0.704289,
+   "population": 620249,
+   "capital": false,
+   "owner": "ENG"
+  },
+  {
+   "name": "Cardiff",
+   "u": 0.490994,
+   "v": 0.67786,
+   "population": 605762,
+   "capital": false,
+   "owner": "ENG"
+  },
+  {
+   "name": "Miskolc",
+   "u": 0.557617,
+   "v": 0.653596,
+   "population": 228231,
+   "capital": false,
+   "owner": "HUN"
+  },
+  {
+   "name": "Debrecen",
+   "u": 0.560004,
+   "v": 0.649263,
+   "population": 213058,
+   "capital": false,
+   "owner": "HUN"
+  },
+  {
+   "name": "Kinshasa",
+   "u": 0.542643,
+   "v": 0.339905,
+   "population": 941160,
+   "capital": false,
+   "owner": "BEL"
+  },
+  {
+   "name": "Chișinău",
+   "u": 0.580187,
+   "v": 0.645797,
+   "population": 495456,
+   "capital": false,
+   "owner": "ROM"
+  },
+  {
+   "name": "Iași",
+   "u": 0.576497,
+   "v": 0.646664,
+   "population": 269398,
+   "capital": false,
+   "owner": "ROM"
+  },
+  {
+   "name": "Geneva",
+   "u": 0.517036,
+   "v": 0.640165,
+   "population": 607358,
+   "capital": false,
+   "owner": "SWI"
+  },
+  {
+   "name": "Zürich",
+   "u": 0.523763,
+   "v": 0.648397,
+   "population": 542704,
+   "capital": false,
+   "owner": "SWI"
+  },
+  {
+   "name": "Göteborg",
+   "u": 0.533312,
+   "v": 0.725953,
+   "population": 326794,
+   "capital": false,
+   "owner": "SWE"
+  },
+  {
+   "name": "Managua",
+   "u": 0.260308,
+   "v": 0.431759,
+   "population": 202400,
+   "capital": true,
+   "owner": "NIC"
+  },
+  {
+   "name": "Porto",
+   "u": 0.47602,
+   "v": 0.605936,
+   "population": 950404,
+   "capital": false,
+   "owner": "POR"
+  },
+  {
+   "name": "Luanda",
+   "u": 0.536784,
+   "v": 0.314775,
+   "population": 620748,
+   "capital": false,
+   "owner": "POR"
+  },
+  {
+   "name": "Barcelona",
+   "u": 0.505968,
+   "v": 0.607236,
+   "population": 2612752,
+   "capital": false,
+   "owner": "SPR"
+  },
+  {
+   "name": "Seville",
+   "u": 0.483398,
+   "v": 0.581672,
+   "population": 643653,
+   "capital": false,
+   "owner": "SPR"
+  },
+  {
+   "name": "Jeddah",
+   "u": 0.608832,
+   "v": 0.485052,
+   "population": 451800,
+   "capital": false,
+   "owner": "SAU"
+  },
+  {
+   "name": "Dammam",
+   "u": 0.639214,
+   "v": 0.514081,
+   "population": 308206,
+   "capital": false,
+   "owner": "SAU"
+  },
+  {
+   "name": "Jakarta",
+   "u": 0.796766,
+   "v": 0.329506,
+   "population": 2225399,
+   "capital": false,
+   "owner": "HOL"
+  },
+  {
+   "name": "Surabaya",
+   "u": 0.81326,
+   "v": 0.323873,
+   "population": 693836,
+   "capital": false,
+   "owner": "HOL"
+  },
+  {
+   "name": "Bergen",
+   "u": 0.514865,
+   "v": 0.747617,
+   "population": 115820,
+   "capital": false,
+   "owner": "NOR"
+  },
+  {
+   "name": "Mumbai",
+   "u": 0.702365,
+   "v": 0.470754,
+   "population": 4027772,
+   "capital": false,
+   "owner": "RAJ"
+  },
+  {
+   "name": "Dhaka",
+   "u": 0.751194,
+   "v": 0.49805,
+   "population": 3139575,
+   "capital": false,
+   "owner": "RAJ"
+  },
+  {
+   "name": "Kolkata",
+   "u": 0.745334,
+   "v": 0.490685,
+   "population": 3138300,
+   "capital": false,
+   "owner": "RAJ"
+  },
+  {
+   "name": "Chennai",
+   "u": 0.722982,
+   "v": 0.436958,
+   "population": 1520230,
+   "capital": false,
+   "owner": "RAJ"
+  },
+  {
+   "name": "Bengaluru",
+   "u": 0.715386,
+   "v": 0.436525,
+   "population": 1440430,
+   "capital": false,
+   "owner": "RAJ"
+  },
+  {
+   "name": "Karachi",
+   "u": 0.686089,
+   "v": 0.504983,
+   "population": 1400270,
+   "capital": false,
+   "owner": "RAJ"
+  },
+  {
+   "name": "Hyderabad",
+   "u": 0.71799,
+   "v": 0.461655,
+   "population": 1353202,
+   "capital": false,
+   "owner": "RAJ"
+  },
+  {
+   "name": "Amaravati",
+   "u": 0.723633,
+   "v": 0.456456,
+   "population": 1230955,
+   "capital": false,
+   "owner": "RAJ"
+  },
+  {
+   "name": "Ahmedabad",
+   "u": 0.701497,
+   "v": 0.494151,
+   "population": 1140756,
+   "capital": false,
+   "owner": "RAJ"
+  },
+  {
+   "name": "Yangon",
+   "u": 0.767036,
+   "v": 0.457756,
+   "population": 1134601,
+   "capital": false,
+   "owner": "RAJ"
+  },
+  {
+   "name": "Chattogram",
+   "u": 0.7551,
+   "v": 0.489818,
+   "population": 1111096,
+   "capital": false,
+   "owner": "RAJ"
+  },
+  {
+   "name": "Pune",
+   "u": 0.705187,
+   "v": 0.467721,
+   "population": 991556,
+   "capital": false,
+   "owner": "RAJ"
+  },
+  {
+   "name": "Surat",
+   "u": 0.702365,
+   "v": 0.483319,
+   "population": 815402,
+   "capital": false,
+   "owner": "RAJ"
+  },
+  {
+   "name": "Lahore",
+   "u": 0.706489,
+   "v": 0.544844,
+   "population": 759239,
+   "capital": false,
+   "owner": "RAJ"
+  },
+  {
+   "name": "Kanpur",
+   "u": 0.723199,
+   "v": 0.514081,
+   "population": 671083,
+   "capital": false,
+   "owner": "RAJ"
+  },
+  {
+   "name": "Jaipur",
+   "u": 0.710612,
+   "v": 0.517114,
+   "population": 619085,
+   "capital": false,
+   "owner": "RAJ"
+  },
+  {
+   "name": "Sydney",
+   "u": 0.92003,
+   "v": 0.168328,
+   "population": 1241271,
+   "capital": false,
+   "owner": "AST"
+  },
+  {
+   "name": "Melbourne",
+   "u": 0.902669,
+   "v": 0.143631,
+   "population": 1117948,
+   "capital": false,
+   "owner": "AST"
+  },
+  {
+   "name": "Brisbane",
+   "u": 0.925022,
+   "v": 0.207756,
+   "population": 498653,
+   "capital": false,
+   "owner": "AST"
+  },
+  {
+   "name": "St.  Petersburg",
+   "u": 0.58431,
+   "v": 0.743718,
+   "population": 3279770,
+   "capital": false,
+   "owner": "SOV"
+  },
+  {
+   "name": "Kyiv",
+   "u": 0.584744,
+   "v": 0.670061,
+   "population": 1831017,
+   "capital": false,
+   "owner": "SOV"
+  },
+  {
+   "name": "Minsk",
+   "u": 0.576497,
+   "v": 0.696057,
+   "population": 1715986,
+   "capital": false,
+   "owner": "SOV"
+  },
+  {
+   "name": "Novosibirsk",
+   "u": 0.73036,
+   "v": 0.704723,
+   "population": 1000571,
+   "capital": false,
+   "owner": "SOV"
+  },
+  {
+   "name": "Kharkiv",
+   "u": 0.600586,
+   "v": 0.667028,
+   "population": 987492,
+   "capital": false,
+   "owner": "SOV"
+  },
+  {
+   "name": "Yekaterinburg",
+   "u": 0.668294,
+   "v": 0.718588,
+   "population": 945824,
+   "capital": false,
+   "owner": "SOV"
+  },
+  {
+   "name": "Nizhny Novgorod",
+   "u": 0.622287,
+   "v": 0.714688,
+   "population": 920611,
+   "capital": false,
+   "owner": "SOV"
+  },
+  {
+   "name": "Samara",
+   "u": 0.639214,
+   "v": 0.690425,
+   "population": 819042,
+   "capital": false,
+   "owner": "SOV"
+  },
+  {
+   "name": "Omsk",
+   "u": 0.703885,
+   "v": 0.704289,
+   "population": 817601,
+   "capital": false,
+   "owner": "SOV"
+  },
+  {
+   "name": "Kazan",
+   "u": 0.636393,
+   "v": 0.710355,
+   "population": 803194,
+   "capital": false,
+   "owner": "SOV"
+  },
+  {
+   "name": "Chelyabinsk",
+   "u": 0.670681,
+   "v": 0.705589,
+   "population": 785905,
+   "capital": false,
+   "owner": "SOV"
+  },
+  {
+   "name": "Rostov",
+   "u": 0.610352,
+   "v": 0.647097,
+   "population": 757812,
+   "capital": false,
+   "owner": "SOV"
+  },
+  {
+   "name": "Ufa",
+   "u": 0.655707,
+   "v": 0.702556,
+   "population": 733319,
+   "capital": false,
+   "owner": "SOV"
+  },
+  {
+   "name": "Perm",
+   "u": 0.656141,
+   "v": 0.72812,
+   "population": 718192,
+   "capital": false,
+   "owner": "SOV"
+  },
+  {
+   "name": "Dnipro",
+   "u": 0.597114,
+   "v": 0.656196,
+   "population": 709696,
+   "capital": false,
+   "owner": "SOV"
+  },
+  {
+   "name": "Volgograd",
+   "u": 0.623589,
+   "v": 0.657929,
+   "population": 708827,
+   "capital": false,
+   "owner": "SOV"
+  },
+  {
+   "name": "Odessa",
+   "u": 0.585395,
+   "v": 0.641898,
+   "population": 669818,
+   "capital": false,
+   "owner": "SOV"
+  },
+  {
+   "name": "Donetsk",
+   "u": 0.605143,
+   "v": 0.65273,
+   "population": 667790,
+   "capital": false,
+   "owner": "SOV"
+  },
+  {
+   "name": "Krasnoyarsk",
+   "u": 0.757921,
+   "v": 0.712088,
+   "population": 666327,
+   "capital": false,
+   "owner": "SOV"
+  },
+  {
+   "name": "Voronezh",
+   "u": 0.609049,
+   "v": 0.679593,
+   "population": 607978,
+   "capital": false,
+   "owner": "SOV"
+  },
+  {
+   "name": "Saratov",
+   "u": 0.62793,
+   "v": 0.678726,
+   "population": 607258,
+   "capital": false,
+   "owner": "SOV"
+  },
+  {
+   "name": "Milan",
+   "u": 0.525499,
+   "v": 0.634965,
+   "population": 2095289,
+   "capital": false,
+   "owner": "ITA"
+  },
+  {
+   "name": "Naples",
+   "u": 0.539605,
+   "v": 0.603769,
+   "population": 1600815,
+   "capital": false,
+   "owner": "ITA"
+  },
+  {
+   "name": "Turin",
+   "u": 0.521376,
+   "v": 0.632366,
+   "population": 1175354,
+   "capital": false,
+   "owner": "ITA"
+  },
+  {
+   "name": "Florence",
+   "u": 0.531359,
+   "v": 0.623267,
+   "population": 1067210,
+   "capital": false,
+   "owner": "ITA"
+  },
+  {
+   "name": "Palermo",
+   "u": 0.537001,
+   "v": 0.586005,
+   "population": 614001,
+   "capital": false,
+   "owner": "ITA"
+  },
+  {
+   "name": "Ōsaka",
+   "u": 0.876194,
+   "v": 0.564775,
+   "population": 6261279,
+   "capital": false,
+   "owner": "JAP"
+  },
+  {
+   "name": "Seoul",
+   "u": 0.852756,
+   "v": 0.582539,
+   "population": 2841666,
+   "capital": false,
+   "owner": "JAP"
+  },
+  {
+   "name": "Nagoya",
+   "u": 0.880317,
+   "v": 0.567374,
+   "population": 1790679,
+   "capital": false,
+   "owner": "JAP"
+  },
+  {
+   "name": "Taipei",
+   "u": 0.837782,
+   "v": 0.505849,
+   "population": 1580994,
+   "capital": false,
+   "owner": "JAP"
+  },
+  {
+   "name": "Fukuoka",
+   "u": 0.862305,
+   "v": 0.557409,
+   "population": 1547856,
+   "capital": false,
+   "owner": "JAP"
+  },
+  {
+   "name": "Sapporo",
+   "u": 0.892687,
+   "v": 0.618934,
+   "population": 1410367,
+   "capital": false,
+   "owner": "JAP"
+  },
+  {
+   "name": "Sendai",
+   "u": 0.891819,
+   "v": 0.587305,
+   "population": 1247377,
+   "capital": false,
+   "owner": "JAP"
+  },
+  {
+   "name": "Hiroshima",
+   "u": 0.867947,
+   "v": 0.562608,
+   "population": 1133727,
+   "capital": false,
+   "owner": "JAP"
+  },
+  {
+   "name": "Busan",
+   "u": 0.858398,
+   "v": 0.566941,
+   "population": 1009493,
+   "capital": false,
+   "owner": "JAP"
+  },
+  {
+   "name": "Pyongyang",
+   "u": 0.849284,
+   "v": 0.592071,
+   "population": 900017,
+   "capital": false,
+   "owner": "JAP"
+  },
+  {
+   "name": "Daegu",
+   "u": 0.857313,
+   "v": 0.571707,
+   "population": 713607,
+   "capital": false,
+   "owner": "JAP"
+  },
+  {
+   "name": "Kaohsiung",
+   "u": 0.834093,
+   "v": 0.491551,
+   "population": 634451,
+   "capital": false,
+   "owner": "JAP"
+  },
+  {
+   "name": "Taichung",
+   "u": 0.835178,
+   "v": 0.50065,
+   "population": 602431,
+   "capital": false,
+   "owner": "JAP"
+  },
+  {
+   "name": "Cape Town",
+   "u": 0.551107,
+   "v": 0.168328,
+   "population": 527064,
+   "capital": false,
+   "owner": "SAF"
+  },
+  {
+   "name": "Cork",
+   "u": 0.476454,
+   "v": 0.680893,
+   "population": 114687,
+   "capital": false,
+   "owner": "IRE"
+  },
+  {
+   "name": "San Salvador",
+   "u": 0.252279,
+   "v": 0.440425,
+   "population": 315260,
+   "capital": true,
+   "owner": "SLV"
+  },
+  {
+   "name": "Santo Domingo",
+   "u": 0.305881,
+   "v": 0.467721,
+   "population": 473880,
+   "capital": true,
+   "owner": "DOM"
+  },
+  {
+   "name": "Santiago",
+   "u": 0.303711,
+   "v": 0.473354,
+   "population": 341165,
+   "capital": false,
+   "owner": "DOM"
+  },
+  {
+   "name": "Zagreb",
+   "u": 0.544379,
+   "v": 0.637132,
+   "population": 520218,
+   "capital": false,
+   "owner": "YUG"
+  },
+  {
+   "name": "Sarajevo",
+   "u": 0.551107,
+   "v": 0.624133,
+   "population": 501646,
+   "capital": false,
+   "owner": "YUG"
+  },
+  {
+   "name": "Alexandria",
+   "u": 0.583225,
+   "v": 0.542678,
+   "population": 659674,
+   "capital": false,
+   "owner": "EGY"
+  },
+  {
+   "name": "Ciudad de Guatemala",
+   "u": 0.248589,
+   "v": 0.445624,
+   "population": 225280,
+   "capital": true,
+   "owner": "GTM"
+  },
+  {
+   "name": "Quetzaltenango",
+   "u": 0.245768,
+   "v": 0.446924,
+   "population": 126557,
+   "capital": false,
+   "owner": "GTM"
+  },
+  {
+   "name": "Thessaloniki",
+   "u": 0.563477,
+   "v": 0.602903,
+   "population": 533130,
+   "capital": false,
+   "owner": "GRE"
+  },
+  {
+   "name": "Tampere",
+   "u": 0.566081,
+   "v": 0.756716,
+   "population": 169085,
+   "capital": false,
+   "owner": "FIN"
+  },
+  {
+   "name": "Turku",
+   "u": 0.56174,
+   "v": 0.74805,
+   "population": 114740,
+   "capital": false,
+   "owner": "FIN"
+  },
+  {
+   "name": "Århus",
+   "u": 0.52832,
+   "v": 0.713388,
+   "population": 151057,
+   "capital": false,
+   "owner": "DEN"
+  },
+  {
+   "name": "Odense",
+   "u": 0.528754,
+   "v": 0.707322,
+   "population": 100612,
+   "capital": false,
+   "owner": "DEN"
+  },
+  {
+   "name": "Shkodër",
+   "u": 0.554145,
+   "v": 0.612002,
+   "population": 112152,
+   "capital": false,
+   "owner": "ALB"
+  },
+  {
+   "name": "Kandahar",
+   "u": 0.6824,
+   "v": 0.545277,
+   "population": 143108,
+   "capital": false,
+   "owner": "AFG"
+  },
+  {
+   "name": "Jalalabad",
+   "u": 0.695638,
+   "v": 0.562608,
+   "population": 119594,
+   "capital": false,
+   "owner": "AFG"
+  },
+  {
+   "name": "Plovdiv",
+   "u": 0.568685,
+   "v": 0.612435,
+   "population": 302628,
+   "capital": false,
+   "owner": "BUL"
+  },
+  {
+   "name": "Varna",
+   "u": 0.577582,
+   "v": 0.619801,
+   "population": 277987,
+   "capital": false,
+   "owner": "BUL"
+  },
+  {
+   "name": "Linz",
+   "u": 0.539605,
+   "v": 0.654896,
+   "population": 267463,
+   "capital": false,
+   "owner": "AUT"
+  },
+  {
+   "name": "Graz",
+   "u": 0.54286,
+   "v": 0.646231,
+   "population": 201642,
+   "capital": false,
+   "owner": "AUT"
+  },
+  {
+   "name": "Maracaibo",
+   "u": 0.30089,
+   "v": 0.423527,
+   "population": 455840,
+   "capital": false,
+   "owner": "VEN"
+  },
+  {
+   "name": "Valencia",
+   "u": 0.311089,
+   "v": 0.420927,
+   "population": 389400,
+   "capital": false,
+   "owner": "VEN"
+  },
+  {
+   "name": "Al Hudaydah",
+   "u": 0.619249,
+   "v": 0.44649,
+   "population": 117000,
+   "capital": false,
+   "owner": "YEM"
+  },
+  {
+   "name": "Taizz",
+   "u": 0.622287,
+   "v": 0.439991,
+   "population": 112650,
+   "capital": false,
+   "owner": "YEM"
+  },
+  {
+   "name": "Asunción",
+   "u": 0.339952,
+   "v": 0.220754,
+   "population": 411400,
+   "capital": true,
+   "owner": "PRY"
+  },
+  {
+   "name": "Ciudad de Panamá",
+   "u": 0.278971,
+   "v": 0.413995,
+   "population": 281820,
+   "capital": true,
+   "owner": "PAN"
+  },
+  {
+   "name": "Guayaquil",
+   "u": 0.277886,
+   "v": 0.351603,
+   "population": 553080,
+   "capital": false,
+   "owner": "ECU"
+  },
+  {
+   "name": "Quito",
+   "u": 0.28201,
+   "v": 0.362868,
+   "population": 374220,
+   "capital": true,
+   "owner": "ECU"
+  },
+  {
+   "name": "San José",
+   "u": 0.266385,
+   "v": 0.419194,
+   "population": 282480,
+   "capital": true,
+   "owner": "CRI"
+  },
+  {
+   "name": "Medellín",
+   "u": 0.290039,
+   "v": 0.39883,
+   "population": 725340,
+   "capital": false,
+   "owner": "COL"
+  },
+  {
+   "name": "Cali",
+   "u": 0.287435,
+   "v": 0.382799,
+   "population": 495880,
+   "capital": false,
+   "owner": "COL"
+  },
+  {
+   "name": "Stuttgart",
+   "u": 0.525499,
+   "v": 0.658362,
+   "population": 2160719,
+   "capital": false,
+   "owner": "GER"
+  },
+  {
+   "name": "Frankfurt",
+   "u": 0.524197,
+   "v": 0.667894,
+   "population": 2124251,
+   "capital": false,
+   "owner": "GER"
+  },
+  {
+   "name": "Mannheim",
+   "u": 0.523546,
+   "v": 0.663562,
+   "population": 1733154,
+   "capital": false,
+   "owner": "GER"
+  },
+  {
+   "name": "Hamburg",
+   "u": 0.527669,
+   "v": 0.693458,
+   "population": 1289226,
+   "capital": false,
+   "owner": "GER"
+  },
+  {
+   "name": "Essen",
+   "u": 0.519423,
+   "v": 0.677426,
+   "population": 1278318,
+   "capital": false,
+   "owner": "GER"
+  },
+  {
+   "name": "Munich",
+   "u": 0.532227,
+   "v": 0.653596,
+   "population": 935551,
+   "capital": false,
+   "owner": "GER"
+  },
+  {
+   "name": "Ostrava",
+   "u": 0.550673,
+   "v": 0.665728,
+   "population": 489300,
+   "capital": false,
+   "owner": "CZE"
+  },
+  {
+   "name": "Brno",
+   "u": 0.546115,
+   "v": 0.661395,
+   "population": 396657,
+   "capital": false,
+   "owner": "CZE"
+  },
+  {
+   "name": "Mosul",
+   "u": 0.6199,
+   "v": 0.57474,
+   "population": 197400,
+   "capital": false,
+   "owner": "IRQ"
+  },
+  {
+   "name": "Mashhad",
+   "u": 0.665473,
+   "v": 0.574307,
+   "population": 446668,
+   "capital": false,
+   "owner": "PER"
+  },
+  {
+   "name": "Isfahan",
+   "u": 0.643555,
+   "v": 0.551776,
+   "population": 294522,
+   "capital": false,
+   "owner": "PER"
+  },
+  {
+   "name": "Auckland",
+   "u": 0.985352,
+   "v": 0.15013,
+   "population": 448143,
+   "capital": false,
+   "owner": "NZL"
+  },
+  {
+   "name": "New York",
+   "u": 0.294596,
+   "v": 0.603336,
+   "population": 7424821,
+   "capital": false,
+   "owner": "USA"
+  },
+  {
+   "name": "Los Angeles",
+   "u": 0.171766,
+   "v": 0.560009,
+   "population": 4874489,
+   "capital": false,
+   "owner": "USA"
+  },
+  {
+   "name": "Chicago",
+   "u": 0.256185,
+   "v": 0.610269,
+   "population": 3505732,
+   "capital": false,
+   "owner": "USA"
+  },
+  {
+   "name": "Miami",
+   "u": 0.277235,
+   "v": 0.510182,
+   "population": 2177921,
+   "capital": false,
+   "owner": "USA"
+  },
+  {
+   "name": "Philadelphia",
+   "u": 0.291124,
+   "v": 0.598137,
+   "population": 2141655,
+   "capital": false,
+   "owner": "USA"
+  },
+  {
+   "name": "Dallas",
+   "u": 0.231011,
+   "v": 0.552643,
+   "population": 1871023,
+   "capital": false,
+   "owner": "USA"
+  },
+  {
+   "name": "Atlanta",
+   "u": 0.265516,
+   "v": 0.559142,
+   "population": 1757155,
+   "capital": false,
+   "owner": "USA"
+  },
+  {
+   "name": "Boston",
+   "u": 0.302626,
+   "v": 0.613735,
+   "population": 1741947,
+   "capital": false,
+   "owner": "USA"
+  },
+  {
+   "name": "Houston",
+   "u": 0.235135,
+   "v": 0.534445,
+   "population": 1738827,
+   "capital": false,
+   "owner": "USA"
+  },
+  {
+   "name": "Detroit",
+   "u": 0.269206,
+   "v": 0.613735,
+   "population": 1599222,
+   "capital": false,
+   "owner": "USA"
+  },
+  {
+   "name": "Phoenix",
+   "u": 0.188694,
+   "v": 0.557409,
+   "population": 1384744,
+   "capital": false,
+   "owner": "USA"
+  },
+  {
+   "name": "San Francisco",
+   "u": 0.160048,
+   "v": 0.583839,
+   "population": 1345359,
+   "capital": false,
+   "owner": "USA"
+  },
+  {
+   "name": "Seattle",
+   "u": 0.160265,
+   "v": 0.649697,
+   "population": 1198734,
+   "capital": false,
+   "owner": "USA"
+  },
+  {
+   "name": "San Diego",
+   "u": 0.174588,
+   "v": 0.552643,
+   "population": 1137120,
+   "capital": false,
+   "owner": "USA"
+  },
+  {
+   "name": "Minneapolis",
+   "u": 0.240994,
+   "v": 0.631499,
+   "population": 1020133,
+   "capital": false,
+   "owner": "USA"
+  },
+  {
+   "name": "San Juan",
+   "u": 0.316298,
+   "v": 0.467288,
+   "population": 966671,
+   "capital": false,
+   "owner": "USA"
+  },
+  {
+   "name": "Tampa",
+   "u": 0.270942,
+   "v": 0.52318,
+   "population": 902365,
+   "capital": false,
+   "owner": "USA"
+  },
+  {
+   "name": "Denver",
+   "u": 0.208442,
+   "v": 0.596837,
+   "population": 901975,
+   "capital": false,
+   "owner": "USA"
+  },
+  {
+   "name": "St. Louis",
+   "u": 0.24924,
+   "v": 0.589471,
+   "population": 857520,
+   "capital": false,
+   "owner": "USA"
+  },
+  {
+   "name": "Cleveland",
+   "u": 0.273112,
+   "v": 0.608102,
+   "population": 737022,
+   "capital": false,
+   "owner": "USA"
+  },
+  {
+   "name": "Portland",
+   "u": 0.15918,
+   "v": 0.635399,
+   "population": 731173,
+   "capital": false,
+   "owner": "USA"
+  },
+  {
+   "name": "Pittsburgh",
+   "u": 0.277669,
+   "v": 0.60117,
+   "population": 716744,
+   "capital": false,
+   "owner": "USA"
+  },
+  {
+   "name": "Las Vegas",
+   "u": 0.180013,
+   "v": 0.573873,
+   "population": 710895,
+   "capital": false,
+   "owner": "USA"
+  },
+  {
+   "name": "San Bernardino",
+   "u": 0.174154,
+   "v": 0.560875,
+   "population": 680478,
+   "capital": false,
+   "owner": "USA"
+  },
+  {
+   "name": "San Jose",
+   "u": 0.161567,
+   "v": 0.580806,
+   "population": 650451,
+   "capital": false,
+   "owner": "USA"
+  },
+  {
+   "name": "Cincinnati",
+   "u": 0.265299,
+   "v": 0.592938,
+   "population": 637973,
+   "capital": false,
+   "owner": "USA"
+  },
+  {
+   "name": "Sacramento",
+   "u": 0.162652,
+   "v": 0.589038,
+   "population": 625494,
+   "capital": false,
+   "owner": "USA"
+  },
+  {
+   "name": "Katowice",
+   "u": 0.552843,
+   "v": 0.668761,
+   "population": 2314194,
+   "capital": false,
+   "owner": "POL"
+  },
+  {
+   "name": "Łódź",
+   "u": 0.553928,
+   "v": 0.680026,
+   "population": 638805,
+   "capital": false,
+   "owner": "POL"
+  },
+  {
+   "name": "Kraków",
+   "u": 0.555447,
+   "v": 0.667461,
+   "population": 637119,
+   "capital": false,
+   "owner": "POL"
+  },
+  {
+   "name": "Arequipa",
+   "u": 0.301324,
+   "v": 0.272314,
+   "population": 179300,
+   "capital": false,
+   "owner": "PRU"
+  },
+  {
+   "name": "Santa Cruz",
+   "u": 0.324327,
+   "v": 0.264515,
+   "population": 462659,
+   "capital": false,
+   "owner": "BOL"
+  },
+  {
+   "name": "La Paz",
+   "u": 0.310655,
+   "v": 0.27188,
+   "population": 349800,
+   "capital": true,
+   "owner": "BOL"
+  },
+  {
+   "name": "Cochabamba",
+   "u": 0.316298,
+   "v": 0.266248,
+   "population": 220000,
+   "capital": false,
+   "owner": "BOL"
+  },
+  {
+   "name": "Klaipėda",
+   "u": 0.558702,
+   "v": 0.709922,
+   "population": 138461,
+   "capital": false,
+   "owner": "LIT"
+  },
+  {
+   "name": "Guadalajara",
+   "u": 0.212999,
+   "v": 0.480286,
+   "population": 608760,
+   "capital": false,
+   "owner": "MEX"
+  },
+  {
+   "name": "Monterrey",
+   "u": 0.221246,
+   "v": 0.509315,
+   "population": 538285,
+   "capital": false,
+   "owner": "MEX"
+  },
+  {
+   "name": "Shanghai",
+   "u": 0.837348,
+   "v": 0.542678,
+   "population": 5361250,
+   "capital": false,
+   "owner": "CHI"
+  },
+  {
+   "name": "Beijing",
+   "u": 0.823242,
+   "v": 0.597704,
+   "population": 3972912,
+   "capital": false,
+   "owner": "CHI"
+  },
+  {
+   "name": "Guangzhou",
+   "u": 0.814779,
+   "v": 0.494584,
+   "population": 3158369,
+   "capital": false,
+   "owner": "CHI"
+  },
+  {
+   "name": "Wuhan",
+   "u": 0.817383,
+   "v": 0.538778,
+   "population": 2591014,
+   "capital": false,
+   "owner": "CHI"
+  },
+  {
+   "name": "Tianjin",
+   "u": 0.825629,
+   "v": 0.592504,
+   "population": 2568477,
+   "capital": false,
+   "owner": "CHI"
+  },
+  {
+   "name": "Chongqing",
+   "u": 0.796115,
+   "v": 0.532712,
+   "population": 2311272,
+   "capital": false,
+   "owner": "CHI"
+  },
+  {
+   "name": "Chengdu",
+   "u": 0.789171,
+   "v": 0.539645,
+   "population": 1474907,
+   "capital": false,
+   "owner": "CHI"
+  },
+  {
+   "name": "Xian",
+   "u": 0.802409,
+   "v": 0.561742,
+   "population": 1434126,
+   "capital": false,
+   "owner": "CHI"
+  },
+  {
+   "name": "Guiyang",
+   "u": 0.796332,
+   "v": 0.514948,
+   "population": 1309995,
+   "capital": false,
+   "owner": "CHI"
+  },
+  {
+   "name": "Zhangzhou",
+   "u": 0.826931,
+   "v": 0.502816,
+   "population": 1263185,
+   "capital": false,
+   "owner": "CHI"
+  },
+  {
+   "name": "Zibo",
+   "u": 0.828016,
+   "v": 0.577773,
+   "population": 1095001,
+   "capital": false,
+   "owner": "CHI"
+  },
+  {
+   "name": "Hangzhou",
+   "u": 0.833876,
+   "v": 0.537045,
+   "population": 1075684,
+   "capital": false,
+   "owner": "CHI"
+  },
+  {
+   "name": "Qingdao",
+   "u": 0.83431,
+   "v": 0.573007,
+   "population": 1025244,
+   "capital": false,
+   "owner": "CHI"
+  },
+  {
+   "name": "Jinan",
+   "u": 0.824978,
+   "v": 0.576906,
+   "population": 1000919,
+   "capital": false,
+   "owner": "CHI"
+  },
+  {
+   "name": "Zhengzhou",
+   "u": 0.815647,
+   "v": 0.564775,
+   "population": 942967,
+   "capital": false,
+   "owner": "CHI"
+  },
+  {
+   "name": "Fuzhou",
+   "u": 0.831489,
+   "v": 0.511915,
+   "population": 932235,
+   "capital": false,
+   "owner": "CHI"
+  },
+  {
+   "name": "Changsha",
+   "u": 0.813694,
+   "v": 0.52448,
+   "population": 931520,
+   "capital": false,
+   "owner": "CHI"
+  },
+  {
+   "name": "Lanzhou",
+   "u": 0.788303,
+   "v": 0.573007,
+   "population": 916138,
+   "capital": false,
+   "owner": "CHI"
+  },
+  {
+   "name": "Shijiazhuang",
+   "u": 0.818034,
+   "v": 0.585572,
+   "population": 864625,
+   "capital": false,
+   "owner": "CHI"
+  },
+  {
+   "name": "Wenzhou",
+   "u": 0.835178,
+   "v": 0.523614,
+   "population": 840657,
+   "capital": false,
+   "owner": "CHI"
+  },
+  {
+   "name": "Nanchang",
+   "u": 0.82194,
+   "v": 0.527513,
+   "population": 840657,
+   "capital": false,
+   "owner": "CHI"
+  },
+  {
+   "name": "Nanchong",
+   "u": 0.794813,
+   "v": 0.540078,
+   "population": 777697,
+   "capital": false,
+   "owner": "CHI"
+  },
+  {
+   "name": "Zaozhuang",
+   "u": 0.826497,
+   "v": 0.565641,
+   "population": 767323,
+   "capital": false,
+   "owner": "CHI"
+  },
+  {
+   "name": "Yantai",
+   "u": 0.837131,
+   "v": 0.582539,
+   "population": 756949,
+   "capital": false,
+   "owner": "CHI"
+  },
+  {
+   "name": "Linyi",
+   "u": 0.828668,
+   "v": 0.566941,
+   "population": 744787,
+   "capital": false,
+   "owner": "CHI"
+  },
+  {
+   "name": "Haikou",
+   "u": 0.806532,
+   "v": 0.47682,
+   "population": 731976,
+   "capital": false,
+   "owner": "CHI"
+  },
+  {
+   "name": "Baotou",
+   "u": 0.805013,
+   "v": 0.60247,
+   "population": 728331,
+   "capital": false,
+   "owner": "CHI"
+  },
+  {
+   "name": "Hefei",
+   "u": 0.825846,
+   "v": 0.546577,
+   "population": 727973,
+   "capital": false,
+   "owner": "CHI"
+  },
+  {
+   "name": "Suzhou",
+   "u": 0.824978,
+   "v": 0.557842,
+   "population": 702575,
+   "capital": false,
+   "owner": "CHI"
+  },
+  {
+   "name": "Nanyang",
+   "u": 0.812609,
+   "v": 0.553943,
+   "population": 695420,
+   "capital": false,
+   "owner": "CHI"
+  },
+  {
+   "name": "Ningbo",
+   "u": 0.837565,
+   "v": 0.534879,
+   "population": 687908,
+   "capital": false,
+   "owner": "CHI"
+  },
+  {
+   "name": "Tangshan",
+   "u": 0.828234,
+   "v": 0.595971,
+   "population": 672168,
+   "capital": false,
+   "owner": "CHI"
+  },
+  {
+   "name": "Shuyang",
+   "u": 0.82997,
+   "v": 0.560875,
+   "population": 633176,
+   "capital": false,
+   "owner": "CHI"
+  },
+  {
+   "name": "Shangqiu",
+   "u": 0.821289,
+   "v": 0.563042,
+   "population": 627094,
+   "capital": false,
+   "owner": "CHI"
+  },
+  {
+   "name": "Wuxi",
+   "u": 0.834093,
+   "v": 0.545277,
+   "population": 625664,
+   "capital": false,
+   "owner": "CHI"
+  },
+  {
+   "name": "Hohhot",
+   "u": 0.810221,
+   "v": 0.603769,
+   "population": 617436,
+   "capital": false,
+   "owner": "CHI"
+  },
+  {
+   "name": "Luoyang",
+   "u": 0.812391,
+   "v": 0.564341,
+   "population": 613501,
+   "capital": false,
+   "owner": "CHI"
+  },
+  {
+   "name": "Jianmen",
+   "u": 0.814345,
+   "v": 0.539211,
+   "population": 610997,
+   "capital": false,
+   "owner": "CHI"
+  },
+  {
+   "name": "Luan",
+   "u": 0.823459,
+   "v": 0.546144,
+   "population": 604558,
+   "capital": false,
+   "owner": "CHI"
+  },
+  {
+   "name": "Wanzhou",
+   "u": 0.801107,
+   "v": 0.540511,
+   "population": 600980,
+   "capital": false,
+   "owner": "CHI"
+  },
+  {
+   "name": "Santiago de Cuba",
+   "u": 0.289388,
+   "v": 0.476386,
+   "population": 122290,
+   "capital": false,
+   "owner": "CUB"
+  },
+  {
+   "name": "Datong",
+   "u": 0.814779,
+   "v": 0.599003,
+   "population": 670022,
+   "capital": false,
+   "owner": "SHX"
+  },
+  {
+   "name": "Yangquan",
+   "u": 0.81543,
+   "v": 0.584705,
+   "population": 351090,
+   "capital": false,
+   "owner": "SHX"
+  },
+  {
+   "name": "Baoshan",
+   "u": 0.775499,
+   "v": 0.506282,
+   "population": 357726,
+   "capital": false,
+   "owner": "YUN"
+  },
+  {
+   "name": "Zhaotang",
+   "u": 0.788086,
+   "v": 0.519281,
+   "population": 289400,
+   "capital": false,
+   "owner": "YUN"
+  },
+  {
+   "name": "Shenyeng",
+   "u": 0.84299,
+   "v": 0.610269,
+   "population": 1712437,
+   "capital": false,
+   "owner": "MAN"
+  },
+  {
+   "name": "Harbin",
+   "u": 0.851888,
+   "v": 0.637132,
+   "population": 1295328,
+   "capital": false,
+   "owner": "MAN"
+  },
+  {
+   "name": "Dalian",
+   "u": 0.837782,
+   "v": 0.591205,
+   "population": 1132920,
+   "capital": false,
+   "owner": "MAN"
+  },
+  {
+   "name": "Jinxi",
+   "u": 0.835612,
+   "v": 0.603336,
+   "population": 867845,
+   "capital": false,
+   "owner": "MAN"
+  },
+  {
+   "name": "Jilin",
+   "u": 0.851454,
+   "v": 0.624133,
+   "population": 857113,
+   "capital": false,
+   "owner": "MAN"
+  },
+  {
+   "name": "Daqing",
+   "u": 0.847114,
+   "v": 0.642764,
+   "population": 605631,
+   "capital": false,
+   "owner": "MAN"
+  },
+  {
+   "name": "Concepción",
+   "u": 0.296984,
+   "v": 0.15013,
+   "population": 195739,
+   "capital": false,
+   "owner": "CHL"
+  },
+  {
+   "name": "Valparaíso",
+   "u": 0.301107,
+   "v": 0.17396,
+   "population": 187880,
+   "capital": false,
+   "owner": "CHL"
+  },
+  {
+   "name": "São Paulo",
+   "u": 0.370551,
+   "v": 0.230719,
+   "population": 3393089,
+   "capital": false,
+   "owner": "BRA"
+  },
+  {
+   "name": "Belo Horizonte",
+   "u": 0.37793,
+   "v": 0.25195,
+   "population": 1003792,
+   "capital": false,
+   "owner": "BRA"
+  },
+  {
+   "name": "Porto Alegre",
+   "u": 0.357747,
+   "v": 0.192158,
+   "population": 705265,
+   "capital": false,
+   "owner": "BRA"
+  },
+  {
+   "name": "Recife",
+   "u": 0.403103,
+   "v": 0.319107,
+   "population": 657371,
+   "capital": false,
+   "owner": "BRA"
+  },
+  {
+   "name": "Fortaleza",
+   "u": 0.392904,
+   "v": 0.343371,
+   "population": 648606,
+   "capital": false,
+   "owner": "BRA"
+  },
+  {
+   "name": "Salvador",
+   "u": 0.393121,
+   "v": 0.291811,
+   "population": 627302,
+   "capital": false,
+   "owner": "BRA"
+  },
+  {
+   "name": "Toronto",
+   "u": 0.279405,
+   "v": 0.622834,
+   "population": 1525515,
+   "capital": false,
+   "owner": "CAN"
+  },
+  {
+   "name": "Montréal",
+   "u": 0.295681,
+   "v": 0.635399,
+   "population": 1076318,
+   "capital": false,
+   "owner": "CAN"
+  },
+  {
+   "name": "Vancouver",
+   "u": 0.158095,
+   "v": 0.661828,
+   "population": 676964,
+   "capital": false,
+   "owner": "CAN"
+  },
+  {
+   "name": "Córdoba",
+   "u": 0.321723,
+   "v": 0.183925,
+   "population": 413576,
+   "capital": false,
+   "owner": "ARG"
+  },
+  {
+   "name": "Rosario",
+   "u": 0.331489,
+   "v": 0.174393,
+   "population": 342653,
+   "capital": false,
+   "owner": "ARG"
+  },
+  {
+   "name": "Davao",
+   "u": 0.849067,
+   "v": 0.403596,
+   "population": 194512,
+   "capital": false,
+   "owner": "PHI"
+  },
+  {
+   "name": "Yinchuan",
+   "u": 0.795247,
+   "v": 0.588605,
+   "population": 354507,
+   "capital": false,
+   "owner": "XSM"
+  },
+  {
+   "name": "Nanning",
+   "u": 0.80089,
+   "v": 0.492851,
+   "population": 775193,
+   "capital": true,
+   "owner": "GXC"
+  },
+  {
+   "name": "Liuzhou",
+   "u": 0.803494,
+   "v": 0.501083,
+   "population": 535516,
+   "capital": false,
+   "owner": "GXC"
+  },
+  {
+   "name": "Shache",
+   "u": 0.714518,
+   "v": 0.588172,
+   "population": 304559,
+   "capital": false,
+   "owner": "SIK"
+  },
+  {
+   "name": "Aksu",
+   "u": 0.722982,
+   "v": 0.605936,
+   "population": 248620,
+   "capital": false,
+   "owner": "SIK"
+  },
+  {
+   "name": "Andorra la Vieja",
+   "u": 0.504232,
+   "v": 0.615035,
+   "population": 4000,
+   "capital": true,
+   "owner": "AND"
+  },
+  {
+   "name": "Pretoria",
+   "u": 0.578451,
+   "v": 0.218154,
+   "population": 130000,
+   "capital": true,
+   "owner": "SAF"
+  },
+  {
+   "name": "Wayaobao",
+   "u": 0.804579,
+   "v": 0.579939,
+   "population": 10000,
+   "capital": true,
+   "owner": "PRC"
+  },
+  {
+   "name": "Punakha",
+   "u": 0.749674,
+   "v": 0.521014,
+   "population": 6000,
+   "capital": true,
+   "owner": "BHU"
+  }
+ ]
+}

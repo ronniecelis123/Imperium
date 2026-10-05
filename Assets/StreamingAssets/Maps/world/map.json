@@ -1,0 +1,11 @@
+{
+ "name": "Mundo 1936",
+ "width": 4608,
+ "height": 2308,
+ "seaLevel": 0.4,
+ "projection": "miller",
+ "latTop": 84.0,
+ "latBottom": -58.0,
+ "startDate": "1936-01-01",
+ "normalStrength": 1.1
+}
